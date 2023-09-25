@@ -1,5 +1,16 @@
 [
   {
+    "com.filter.pictures": {
+      "am_ba": "",
+      "am_in": "ca-app-pub-3127782761380039/1951556167",
+      "am_na": "",
+
+      "is_id":"",
+
+      "interval": 45000,
+      
+      "ads_list": ["am"]
+    },
     "fast.charging.animation": {
       "am_ba": "",
       "am_in": "",
