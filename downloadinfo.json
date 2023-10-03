@@ -1,15 +1,15 @@
 [
   {
     "com.filter.pictures": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-6158527016809794/2799202587",
+      "am_in": "ca-app-pub-6158527016809794/1327969120",
+      "am_na": "ca-app-pub-6158527016809794/2577471612",
 
       "is_id":"",
 
       "interval": 45000,
       
-      "ads_list": ["qq"]
+      "ads_list": ["am"]
     },
     "fast.charging.animation": {
       "am_ba": "",
