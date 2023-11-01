@@ -11,6 +11,16 @@
       
       "ads_list": ["am"]
     },
+    "com.sweet.camera.selfie": {
+      "am_ba": "ca-app-pub-4226576672608638/2510299640",
+      "am_in": "ca-app-pub-4226576672608638/8607151740",
+      "am_na": "ca-app-pub-4226576672608638/4729268879",
+
+      "app_id": "ca-app-pub-4226576672608638~7592477701",
+
+      "is_id":"",
+      "ads_list": ["am"]
+    },
     "fast.charging.animation": {
       "am_ba": "",
       "am_in": "",
