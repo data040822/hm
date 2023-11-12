@@ -5,11 +5,11 @@
       "am_in": "ca-app-pub-6158527016809794/1327969120",
       "am_na": "ca-app-pub-6158527016809794/2577471612",
 
-      "is_id":"",
+      "is_id":"1c70c775d",
 
-      "interval": 45000,
+      "interval": 60000,
       
-      "ads_list": ["am"]
+      "ads_list": ["am", "is"]
     },
     "com.sweet.camera.selfie": {
       "am_ba": "ca-app-pub-4226576672608638/2510299640",
