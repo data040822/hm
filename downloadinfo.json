@@ -13,6 +13,19 @@
       
       "ads_list": ["am", "is"]
     },
+    "com.hms.mehndi.design.offline": {
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "app_id": "",
+
+      "is_id":"1f3d84985",
+
+      "interval": 60000,
+      
+      "ads_list": ["is"]
+    },
     "com.sweet.camera.selfie": {
       "am_ba": "ca-app-pub-4226576672608638/2510299640",
       "am_in": "ca-app-pub-4226576672608638/8607151740",
