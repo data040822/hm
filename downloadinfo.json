@@ -1,11 +1,24 @@
 [
   {
-    "com.filter.pictures": {
+    "com.filter.pictures.bk": {
       "am_ba": "ca-app-pub-4226576672608638/2460248041",
       "am_in": "ca-app-pub-4226576672608638/8632858436",
       "am_na": "ca-app-pub-4226576672608638/1286767179",
 
       "app_id": "ca-app-pub-4226576672608638~7340726106",
+
+      "is_id":"1c70c775d",
+
+      "interval": 60000,
+      
+      "ads_list": ["am", "is"]
+    },
+    "com.filter.pictures": {
+      "am_ba": "",
+      "am_in": "ca-app-pub-2626306840567289/4697405550",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-2626306840567289~7756050830",
 
       "is_id":"1c70c775d",
 
