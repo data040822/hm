@@ -39,7 +39,7 @@
       
       "ads_list": ["is"]
     },
-    "com.sweet.camera.selfie.bk": {
+    "com.sweet.camera.selfie": {
       "am_ba": "ca-app-pub-4226576672608638/2510299640",
       "am_in": "ca-app-pub-4226576672608638/8607151740",
       "am_na": "ca-app-pub-4226576672608638/4729268879",
@@ -50,7 +50,7 @@
       "ads_list": ["am"]
     },
 
-    "com.sweet.camera.selfie": {
+    "com.sweet.camera.selfie.masstel": {
       "am_ba": "ca-app-pub-1914622246944229/7185268831",
       "am_in": "ca-app-pub-1914622246944229/8420229383",
       "am_na": "ca-app-pub-1914622246944229/5872187167",
