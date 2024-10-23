@@ -28,18 +28,29 @@
     },
     "com.hms.mehndi.design.offline": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-4436645852599152/3786333850",
       "am_na": "",
 
-      "app_id": "",
+      "app_id": "ca-app-pub-4436645852599152~4514126005",
 
       "is_id":"1f3d84985",
 
       "interval": 60000,
       
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "com.sweet.camera.selfie": {
+      "am_ba": "",
+      "am_in": "ca-app-pub-4436645852599152/3910485187",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-4436645852599152~3977933791",
+
+      "is_id":"",
+      "ads_list": ["am"]
+    },
+
+    "com.sweet.camera.selfie.bk": {
       "am_ba": "ca-app-pub-4226576672608638/2510299640",
       "am_in": "ca-app-pub-4226576672608638/8607151740",
       "am_na": "ca-app-pub-4226576672608638/4729268879",
