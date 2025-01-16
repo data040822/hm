@@ -39,7 +39,7 @@
       
       "ads_list": ["am", "is"]
     },
-    "com.sweet.camera.selfie": {
+    "com.sweet.camera.selfie.prime4g": {
       "am_ba": "",
       "am_in": "ca-app-pub-1113697086569953/1128312081",
       "am_na": "",
@@ -50,7 +50,7 @@
       "ads_list": ["am"]
     },
 
-    "com.sweet.camera.selfie.bk": {
+    "com.sweet.camera.selfie": {
       "am_ba": "ca-app-pub-4226576672608638/2510299640",
       "am_in": "ca-app-pub-4226576672608638/8607151740",
       "am_na": "ca-app-pub-4226576672608638/4729268879",
