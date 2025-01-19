@@ -28,14 +28,14 @@
     },
     "com.hms.mehndi.design.offline": {
       "am_ba": "",
-      "am_in": "ca-app-pub-4436645852599152/3786333850",
+      "am_in": "ca-app-pub-6679447030163077/1825938781",
       "am_na": "",
 
-      "app_id": "ca-app-pub-4436645852599152~4514126005",
+      "app_id": "ca-app-pub-6679447030163077~3921619087",
 
       "is_id":"1f3d84985",
 
-      "interval": 60000,
+      "interval": 45000,
       
       "ads_list": ["am", "is"]
     },
