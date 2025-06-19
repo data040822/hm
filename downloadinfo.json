@@ -39,34 +39,23 @@
       
       "ads_list": ["am", "is"]
     },
-    "com.sweet.camera.selfie.prime4g": {
+
+    "com.sweet.camera.selfie": {
       "am_ba": "",
-      "am_in": "ca-app-pub-1113697086569953/1128312081",
+      "am_in": "ca-app-pub-6108461120105423/6819184434",
       "am_na": "",
 
-      "app_id": "ca-app-pub-1113697086569953~5993625953",
+      "app_id": "ca-app-pub-6108461120105423~2754982195",
 
       "is_id":"",
       "ads_list": ["am"]
     },
-
-    "com.sweet.camera.selfie": {
+    "com.sweet.camera.selfie.bk": {
       "am_ba": "ca-app-pub-4226576672608638/2510299640",
       "am_in": "ca-app-pub-4226576672608638/8607151740",
       "am_na": "ca-app-pub-4226576672608638/4729268879",
 
       "app_id": "ca-app-pub-4226576672608638~7592477701",
-
-      "is_id":"",
-      "ads_list": ["am"]
-    },
-
-    "com.sweet.camera.selfie.masstel": {
-      "am_ba": "ca-app-pub-1914622246944229/7185268831",
-      "am_in": "ca-app-pub-1914622246944229/8420229383",
-      "am_na": "ca-app-pub-1914622246944229/5872187167",
-
-      "app_id": "ca-app-pub-1914622246944229~1755582836",
 
       "is_id":"",
       "ads_list": ["am"]
