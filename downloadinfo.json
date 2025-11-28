@@ -39,8 +39,7 @@
       
       "ads_list": ["am", "is"]
     },
-
-    "com.sweet.camera.selfie": {
+  "com.sweet.camera.selfie.sonyc3": {
       "am_ba": "",
       "am_in": "ca-app-pub-6424684095561416/4776556598",
       "am_na": "",
@@ -49,6 +48,28 @@
 
       "is_id":"",
       "ads_list": ["am"],
+
+      "status":2,
+      "version_code":4,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Sweet Camera Selfie is the new way to enjoy your selfie pictures this all new picture editor gives you a special chance to try an interesting cute filters that allows you to switch your picture to cute girl.",
+        "package":"com.sweet.camera.selfie",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/data040822/hm/master/data/sweetcameraselfie/icon.png",
+        "app_name":"Sweet Camera Selfie"
+      }
+    },
+    "com.sweet.camera.selfie": {
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "app_id": "",
+
+      "is_id":"",
+      "ads_list": ["zz"],
 
       "status":2,
       "version_code":4,
