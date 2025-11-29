@@ -63,13 +63,13 @@
     },
     "com.sweet.camera.selfie": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1914622246944229/3940623313",
       "am_na": "",
 
-      "app_id": "",
+      "app_id": "ca-app-pub-1914622246944229~1755582836",
 
       "is_id":"",
-      "ads_list": ["zz"],
+      "ads_list": ["am"],
 
       "status":2,
       "version_code":4,
